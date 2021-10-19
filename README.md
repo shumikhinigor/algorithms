@@ -2,7 +2,7 @@
 
 ### Orders of Growth
 
-All examples in index.js
+All examples in files
 
 * **O(1)** - constant
 * **O(log n)** - logarithmic
